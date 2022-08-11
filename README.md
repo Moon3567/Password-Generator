@@ -1,4 +1,4 @@
-A Simple GUI which generates a password up to 16 characters 
+A Simple GUI which randomly generates a password up to 16 characters 
 
 Modules Used:
 
